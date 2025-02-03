@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N6Y7SSSy+AM/XeS53PgLLohjl2F+m6uJsPsHEn9mAdY=",
+  "Source": "demoapp",
+  "BasePath": "_content/demoapp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

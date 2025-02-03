@@ -6,6 +6,9 @@ C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\demoapp.deps.json
 C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\demoapp.runtimeconfig.json
 C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\demoapp.dll
 C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\demoapp.pdb
+C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\mamatha.rathod\source\repos\demoapp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -17,6 +20,7 @@ C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\demoapp.AssemblyIn
 C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\demoapp.csproj.CoreCompileInputs.cache
 C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\demoapp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\demoapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\demoapp.sourcelink.json
 C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\scopedcss\bundle\demoapp.styles.css
 C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\mamatha.rathod\source\repos\demoapp\obj\Debug\net8.0\staticwebassets.development.json
