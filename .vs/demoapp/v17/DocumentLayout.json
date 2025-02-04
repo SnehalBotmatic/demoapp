@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\dbhandler\\datadbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:dbhandler\\datadbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +46,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:37:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T08:32:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataDBhandler.cs",
+              "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\DbHandler\\DataDBhandler.cs",
+              "RelativeDocumentMoniker": "DbHandler\\DataDBhandler.cs",
+              "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\DbHandler\\DataDBhandler.cs",
+              "RelativeToolTip": "DbHandler\\DataDBhandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:17:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "demoapp",
+              "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\demoapp.csproj",
+              "RelativeDocumentMoniker": "demoapp.csproj",
+              "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\demoapp.csproj",
+              "RelativeToolTip": "demoapp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T08:15:06.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T08:49:03.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "dataModel.cs",
+              "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Model\\dataModel.cs",
+              "RelativeDocumentMoniker": "Model\\dataModel.cs",
+              "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Model\\dataModel.cs",
+              "RelativeToolTip": "Model\\dataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:18:10.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T08:50:26.761Z",
               "EditorCaption": ""

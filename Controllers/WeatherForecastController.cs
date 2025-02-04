@@ -1,3 +1,5 @@
+using demoapp.DbHandler;
+using demoapp.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace demoapp.Controllers
@@ -19,15 +21,12 @@ namespace demoapp.Controllers
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        public IEnumerable<WeatherForecast> Get()
+        public dataModel Get()
         {
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-            })
-            .ToArray();
+            dataModel model = new dataModel();
+            DataDBhandler db = new DataDBhandler();
+            model = db.fetchdatafromdatabase();
+            return model;
         }
     }
 }

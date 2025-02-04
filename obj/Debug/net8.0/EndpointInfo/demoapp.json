@@ -17,26 +17,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
+                  "$ref": "#/components/schemas/dataModel"
                 }
               },
               "application/json": {
                 "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
+                  "$ref": "#/components/schemas/dataModel"
                 }
               },
               "text/json": {
                 "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
+                  "$ref": "#/components/schemas/dataModel"
                 }
               }
             }
@@ -47,23 +38,18 @@
   },
   "components": {
     "schemas": {
-      "WeatherForecast": {
+      "dataModel": {
         "type": "object",
         "properties": {
-          "date": {
+          "day": {
             "type": "string",
-            "format": "date"
+            "nullable": true
           },
-          "temperatureC": {
-            "type": "integer",
-            "format": "int32"
+          "season": {
+            "type": "string",
+            "nullable": true
           },
-          "temperatureF": {
-            "type": "integer",
-            "format": "int32",
-            "readOnly": true
-          },
-          "summary": {
+          "tempreture": {
             "type": "string",
             "nullable": true
           }
