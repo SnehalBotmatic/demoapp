@@ -10,7 +10,7 @@ namespace demoapp.DbHandler
         public DataDBhandler()
         {
             // Read the connection string from appsettings.json
-            _connectionString = "Datasource=13.126.125.20;Port=3306;Database=linux_database;uid=VyayAWSDBServer;pwd=Botmatic123$;";//"Server=3.110.5.126;Database=linux_database;User=VyayAWSDBServer;Password=Botmatic123$;Port=3306;";//configuration.GetConnectionString("DefaultConnection");
+            _connectionString = "Datasource=13.203.193.152;Port=3306;Database=linux_database;uid=admin;pwd=Test@123;";//"Server=3.110.5.126;Database=linux_database;User=VyayAWSDBServer;Password=Botmatic123$;Port=3306;";//configuration.GetConnectionString("DefaultConnection");
         }
         public dataModel fetchdatafromdatabase()
         {
