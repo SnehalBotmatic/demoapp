@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\dbhandler\\datadbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:dbhandler\\datadbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAC4F9E9-69D0-4266-8F50-72B34EDD0502}|demoapp.csproj|c:\\users\\mamatha.rathod\\source\\repos\\demoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -50,7 +50,8 @@
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T10:37:29.786Z"
+              "WhenOpened": "2025-02-04T10:37:29.786Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -66,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataDBhandler.cs",
               "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\DbHandler\\DataDBhandler.cs",
               "RelativeDocumentMoniker": "DbHandler\\DataDBhandler.cs",
               "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\DbHandler\\DataDBhandler.cs",
               "RelativeToolTip": "DbHandler\\DataDBhandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAIDAVM4gwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T08:17:39.655Z",
               "EditorCaption": ""
@@ -91,15 +92,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAApwBsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T08:49:03.742Z"
+              "WhenOpened": "2025-02-03T08:49:03.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mamatha.rathod\\source\\repos\\demoapp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -123,8 +125,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T08:50:26.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T08:50:26.761Z"
             },
             {
               "$type": "Bookmark",
